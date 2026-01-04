@@ -1,6 +1,6 @@
 ## Cards
 
-[![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=sadtreap)](https://solved.ac/sadtreap)
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sadtreap)](https://solved.ac/sadtreap)
 [![CodeForces](https://cf.leed.at?id=badtreap)](https://codeforces.com/profile/badtreap)
 
 <!--
