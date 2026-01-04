@@ -1,4 +1,7 @@
-## Hi there 👋
+## Cards
+
+[![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=sadtreap)](https://solved.ac/sadtreap)
+[![CodeForces](https://cf.leed.at?id=badtreap)](https://codeforces.com/profile/badtreap)
 
 <!--
 **sadtreap/sadtreap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
