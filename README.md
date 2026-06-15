@@ -1,19 +1,31 @@
+# JooYeong Kim (sadtreap)
+
 ## Cards
 
-[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sadtreap)](https://solved.ac/sadtreap)
-[![CodeForces](https://cf.leed.at?id=badtreap)](https://codeforces.com/profile/badtreap)
+<p>
+  <a href="https://solved.ac/sadtreap"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sadtreap" alt="solved.ac"></a>
+  <a href="https://codeforces.com/profile/badtreap"><img src="https://cf.leed.at?id=badtreap" alt="Codeforces"></a>
+</p>
 
-<!--
-**sadtreap/sadtreap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Highlights
 
-Here are some ideas to get you started:
+- **solved.ac** — Diamond II
+- **Codeforces** — Max Rating: 2604 (International Grandmaster)
+- **Good Bye, BOJ! (2026)** — 2nd Place
+- **Midnight Code Cup (2026)** — Finalist
+- **alphano.kr** (Game AI)
+  - Ataxx — 1st Place
+  - Domineering — 1st Place
+- **reversing.kr** — All Solved
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Algorithms
+- Machine Learning
+- Game Theory
+- Reversing & Pwnable
+
+## Languages
+
+- **Main:** C++, Python, Assembly
+- **Learning:** Rust, Javascript
